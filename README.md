@@ -1,47 +1,68 @@
+<h2 align="left">Hi 👋! My name is Pankaj Gite and I'm a Full Stack Developer</h2>
+
+<br clear="both">
+
 <div align="center">
-
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="100">
-
-<h1>
-Hey there!
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-<a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D700%26size%3D25%26pause%3D1000%26color%3DF7F7F7%26background%3D00000000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DI%27m%2Ba%2BJunior%2BSoftware%2BDeveloper%3BJava%2BFull%2BStack%2BEnthusiast%3BAlways%2Blearning%2Band%2Bgrowing" alt="Typing SVG">
-</a>
-
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dpankajgite%26hide_title%3Dfalse%26hide_rank%3Dfalse%26show_icons%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26disable_animations%3Dfalse%26theme%3Ddracula%26locale%3Den%26hide_border%3Dfalse" height="150" alt="stats graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3Dpankajgite%26locale%3Den%26hide_title%3Dfalse%26layout%3Dcompact%26card_width%3D320%26langs_count%3D5%26theme%3Ddracula%26hide_border%3Dfalse" height="150" alt="languages graph" />
 </div>
 
-🙋‍♂️ About Me
-I am a passionate and dedicated Junior Software Developer with a strong foundation in Java Full Stack development. I recently graduated with a B.Tech in Computer Science and I'm eager to apply my skills to real-world challenges. I enjoy building robust and scalable applications and I'm always looking for opportunities to learn new technologies.
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhycHFlZXRoZ2NiY2FyajFtN2E5ZXduZmxleWE4amZtaXU4MGE4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/giphy.gif" alt="coding gif" />
 
 🛠️ Skills
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djava,spring,hibernate,react,redux,js,html,css,bootstrap,tailwind,mysql,mongodb,docker,kubernetes,aws,git,github,postman,idea,vscode" />
-</a>
-</p>
-
-📊 GitHub Stats
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_GITHUB_USERNAME%26show_icons%3Dtrue%26theme%3Ddracula" alt="Your GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR_GITHUB_USERNAME%26theme%3Ddracula" alt="GitHub Streak" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_GITHUB_USERNAME%26layout%3Dcompact%26theme%3Ddracula" alt="Top Languages" />
-</p>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+<img width="12" />
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js logo" />
+<img width="12" />
+<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React Native logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="30" alt="Vercel logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="30" alt="Netlify logo" />
+</div>
 
 📫 Let's Connect!
-<p align="center">
-<a href="https://www.google.com/search?q=https://wa.me/YOUR_WHATSAPP_NUMBER" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/WhatsApp-25D366%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3Dwhite" alt="WhatsApp"/>
+<div align="left">
+<a href="https://linkedin.com/in/pankaj-gite/" target="_blank">
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="mailto:pankaj.gite2021@gmail.com?subject=Subject%20Here" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+<a href="https://www.google.com/search?q=https://api.whatsapp.com/send/%3Fphone%3D918210635992%26text%26type%3Dphone_number%26app_absent%3D0" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
 </a>
-<a href="https://www.google.com/search?q=https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub"/>
-</a>
-</p>
+</div>
+
+<br clear="both">
+
+<!-- Snake animation -->
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/pankajgite/pankajgite/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/pankajgite/pankajgite/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://www.google.com/search?q=https://raw.githubusercontent.com/pankajgite/pankajgite/output/github-contribution-grid-snake.svg">
+</picture>
